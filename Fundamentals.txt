@@ -1,0 +1,94 @@
+MEAN Stack
+    >> M: Mongo DB (Database)
+    >> E: ExpressJs (Backend)
+    >> A: Angular (Frontend)
+    >> N: NodeJs (Backend)
+
+Three Pillars
+    >> HTML (Hyper Text Markup Language)
+    >> CSS  (Cascading Style Sheets)
+    >> JS   (Java Script)
+
+Other Stacks
+    >> MEAN, MERN, Java Full Stack
+
+Web Dev
+    >> Building/Developers Team
+    >> Testing Team (Manual Testers/Automated Testers)
+    >> Hosting Team (DevOps Team)
+    >> Maintenance Team/Support Team
+
+SDLC (Software Development Life Cycle):
+    >> WaterFall Model
+    >> Agile Model
+    >> Spiral Model
+    >> Iterative Model
+    >> Incremental Model
+    >> V Shaped Model
+    >> RAD (Rapid Application Development) Model
+
+URL (Uniform Resource Locator)
+    https://www.instagarm.com/
+    https://eduvcation.rohanAcademy.edu/FullStack
+
+    https: Protocol
+    rohanAcademy: Server/Domain Name
+    education : Sub-Domain
+    .edu : TLD (Top Level Domain)
+    FullStack: Path/Location
+
+
+Protocol:
+    >> Set of rules/instructions
+        http : Hyper Text Transfer Protocol
+        https : Hyper Text Transfer Protocol Secure
+        tcp : Tranmission Control Protocol
+        udp: User Datagram Protocol
+        smtp : Simple Mail Transfer Protocol
+        ftp : File Transfer Protocol
+        ip : Internet Protocol (ipV4 & ipV6)
+
+
+            >> Client/Web Page ------(uName & uPwd) --------> Instagram Server
+            >> SSL (Secure Socket Layer)
+
+
+
+Server/Domain Name:
+    >> Unique Identifier
+        >> Eg: Google, Amazon
+
+
+Sub-Domain Name:
+    >> gMeet
+    >> gMaps
+    >> gDrive
+    >> Gmail
+    >> gPhotos
+    >> gFiles
+    >> gChrome
+    >> gCalendar
+    >> gPay
+
+    >> Amazon Shopping
+    >> AWS
+
+
+TLD (Top Level Domain):
+    Amazon.in (India)
+    Amazon.com (commercial)
+    Amazon.edu (education)
+    Amazon.org (organization)
+    Amazon.uk (united kingdom)
+
+
+Offline Editors
+    >> Notepad
+    >> Notepad++
+    >> Sublime
+    >> Open Brackets
+    >> VS Code
+
+Online Editors
+    >> Codepsace
+    >> CodeSandbox
